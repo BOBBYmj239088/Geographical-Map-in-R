@@ -1,4 +1,5 @@
-#Packages needed to be installed: ggplot2, raster,tidyverse,ggmap,RColorBrewer,patchwork and here.
+#Packages needed to be installed: ggplot2, raster,tidyverse,sp,ggmap,RColorBrewer,patchwork and here.
+#Make sure you are connected to internet to run this program
 #Loading the necessary R Packages
 library(ggplot2)
 library(raster)
