@@ -1,7 +1,14 @@
+#Packages needed to be installed: ggplot2, raster,tidyverse,ggmap,RColorBrewer
+#Packages needed to be installed: patchwork and here.
 #Loading the necessary R Packages
 library(ggplot2)
 library(raster)
+library(tidyverse)
 library(ggmap)
+library(RColorBrewer)
+library(patchwork)
+library(here)
+
 #Setting the baselines for the Map Template
 options(digits = 3)
 set.seed(1234)
