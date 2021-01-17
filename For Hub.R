@@ -33,7 +33,7 @@ id<-c(1,2,3,4,5,6,7,8)
 #Setting the Serial number
 sr<-c(1,2,3,4,5,6,7,8)
 
-# IDs of the Samples which gave positive results. 1=Positive 2=Negative
+# IDs of the Samples which gave positive results. 1=Positive 0=Negative
 pos<-c(1,0,0,0,0,0,0,1)
 
 #Latitudes of the Sampling places
